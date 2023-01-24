@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello There
+
+ - My name is Nicholas Busaba and I grew up in Poughkeepsie, New York
+ - I am currently enrolled at Rensselaer Polytechnic Institute (commonly referred to as RPI)
+ - I am enrolled as a CS major, potentially ITWS as well down the line
+ 
+ - I program and video edit in my free time
+ 
+ - Contact Email: busabaN2014@verizon.net
+ - School Email: busabn@rpi.edu
 
 <!--
 **Busaba-Nicholas/Busaba-Nicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
